@@ -17,7 +17,7 @@
 ***Earbuds that I have already tested using these codecs:*** <br />
 
 
-|**QCY EARBUDS**|WINDOWS VER|BUILD|WORKING|AUDIO QUALITY|
+|**QCY EARBUDS**|WINDOWS VERSION|BUILD|WORKING|AUDIO QUALITY|
 |---|---|---|---|---|
 |**QCY T13**|Win 11 Home or Pro|[22621.1](https://uupdump.net/selectlang.php?id=356c1621-04e7-4e66-8928-03a687c3db73)|:white_check_mark:|100% more than Excellent!|
 |**QCY T13**|Win 11 Pro|[22631.3155](https://uupdump.net/selectlang.php?id=18947b65-2180-4838-a051-2dbe1ee40064)|:white_check_mark:|Excellent!|
