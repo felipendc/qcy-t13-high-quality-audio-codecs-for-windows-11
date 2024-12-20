@@ -45,8 +45,8 @@
 
 |**TESTED ON WIRELESS CARDS**|BLUETOOTH VERSION|WORKING|BEST BLUETOOTH DRIVER|
 |---|---|---|---|
-|**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|23.20.0.3|
-|**Intel® Dual Band Wireless-AC 8265**|Bluetooth 4.2|:white_check_mark:|22.160.0.4|
+|**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|11/28/2023 - 23.20.0.3|
+|**Intel® Dual Band Wireless-AC 8265**|Bluetooth 4.2|:white_check_mark:|12/14/2021 - 22.100.1.1|
 
 <br />
 
