@@ -47,7 +47,7 @@
 |---|---|---|---|
 |**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|📅11/28/2023 - 🏷️23.20.0.3| 
 |**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|📅10/18/2024 - 🏷️23.90.0.8|
-|**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|📅11/12/2024 - 🏷️<a href="https://intel-wireless-bluetooth-drivers.br.uptodown.com/windows" target="_blank">22.100.1.1</a>|
+|**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|📅11/12/2024 - 🏷️[22.100.1.1](https://intel-wireless-bluetooth-drivers.br.uptodown.com/windows)|
 |---|---|---|---|
 |**Intel® Wi-Fi 6 AX200**|Bluetooth 5.2|:white_check_mark:|📅11/12/2024 - 🏷️23.100.0.4|
 
